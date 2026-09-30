@@ -84,7 +84,7 @@ smart-waste-management-system/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/2004satyammishra/smart-waste-management-system.git
+git clone https://github.com/2008nancymishra/smart-waste-management-system.git
 cd smart-waste-management-system
 ```
 
