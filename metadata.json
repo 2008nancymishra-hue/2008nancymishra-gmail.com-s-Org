@@ -1,0 +1,7 @@
+{
+  "name": "Smart Waste Management",
+  "description": "Modern civic-tech mobile and web application for smart waste management, automated pickup scheduling, complaint tracking, and collector operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
